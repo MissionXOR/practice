@@ -7,4 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-This is a basic CRUD operation using laravel framework
+This is a basic CRUD operation using laravel framework 
+## Copyright
+© 2024 <a href="https://github.com/MissionXOR">MissionXOR</a> . All rights reserved.
+
