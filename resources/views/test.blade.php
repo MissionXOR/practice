@@ -1,0 +1,1 @@
+<h1>this is single action controller</h1>
